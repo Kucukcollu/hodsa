@@ -1,0 +1,3 @@
+/home/ali/hods/build/CMakeFiles/rebuild_cache.dir
+/home/ali/hods/build/CMakeFiles/stack_with_stl.dir
+/home/ali/hods/build/CMakeFiles/edit_cache.dir
