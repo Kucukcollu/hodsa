@@ -26,11 +26,11 @@ STL Components
     - array
     - forward_list
 - Container Adaptors
-    - queue
+    - queue<br></br>
     ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/main/figures/queue.png)<br></br>
-    - priority_queue
+    - priority_queue<br></br>
     ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/main/figures/priority_queue.png)<br></br>
-    - stack
+    - stack<br></br>
     ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/main/figures/stack.png)<br></br>
 - Associative Containers
     - set
