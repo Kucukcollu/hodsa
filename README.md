@@ -27,11 +27,11 @@ STL Components
     - forward_list
 - Container Adaptors
     - queue
-    ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/master/figures/queue.png)<br></br>
+    ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/main/figures/queue.png)<br></br>
     - priority_queue
-    ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/master/figures/priority_queue.png)<br></br>
+    ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/main/figures/priority_queue.png)<br></br>
     - stack
-    ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/master/figures/stack.png)<br></br>
+    ![](https://github.com/Kucukcollu/hodsa_with_stl/blob/main/figures/stack.png)<br></br>
 - Associative Containers
     - set
     - multiset
