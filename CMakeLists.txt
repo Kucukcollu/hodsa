@@ -3,4 +3,9 @@ project(hods)
 
 set (CMAKE_CXX_STANDARD 20)
 
-add_executable(stack_with_stl src/stack/stack_with_stl.cpp)
+# Containers
+
+# Container Adaptors
+add_executable(stack src/containers/container_adaptors/stack/stack.cpp)
+add_executable(queue src/containers/container_adaptors/queue/queue.cpp)
+add_executable(priority_queue src/containers/container_adaptors/priority_queue/priority_queue.cpp)

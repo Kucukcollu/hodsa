@@ -3,14 +3,14 @@
 
 /* 
     Object
-    std::stack<string> object;
+    std::stack<std::string> object;
 
     Methods
     -> object.push():      adds element to stack
     -> object.size():      return the size of the stack
     -> object.pop():       removes the last element
     -> object.top():       returns the last element
-    -> object.empty():     return boolean state of stack as empty or not
+    -> object.empty():     return boolean state of stack is empty or not
     -> object.swap():      changes stacks with each other
     -> object.emplace():   adds element and revert the stack
 */
