@@ -1,4 +1,4 @@
-# hodsa: Hands On Data Structures and Algorithms
+## hodsa: Hands On Data Structures and Algorithms
 
 C++ STL Library
 
