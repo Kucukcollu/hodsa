@@ -1,5 +1,0 @@
-/root/hodsa/build/CMakeFiles/edit_cache.dir
-/root/hodsa/build/CMakeFiles/rebuild_cache.dir
-/root/hodsa/build/hodsa/queue/CMakeFiles/queue.dir
-/root/hodsa/build/hodsa/queue/CMakeFiles/edit_cache.dir
-/root/hodsa/build/hodsa/queue/CMakeFiles/rebuild_cache.dir
