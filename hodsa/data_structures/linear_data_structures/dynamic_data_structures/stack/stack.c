@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h> // bool
-#include <stdlib.h> // malloc
+#include <stdlib.h> // malloc()
 
 #define MAX_ELEMENT 10
 typedef struct stack
