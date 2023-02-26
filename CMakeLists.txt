@@ -8,6 +8,7 @@ project(hodsa)
 ## Dynamic Data Structures
 add_subdirectory(hodsa/data_structures/linear_data_structures/dynamic_data_structures/stack)
 add_subdirectory(hodsa/data_structures/linear_data_structures/dynamic_data_structures/queue)
+add_subdirectory(hodsa/data_structures/linear_data_structures/dynamic_data_structures/linked_list)
 
 #### Algorithms
 
