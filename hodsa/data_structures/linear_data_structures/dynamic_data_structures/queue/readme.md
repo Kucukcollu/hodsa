@@ -3,6 +3,12 @@
 ## Explanation
 - FIFO: First In First Out
 
+## Types of linked list
+- Simple Queue
+- Circular Queue
+- Priority Queue
+- Double Ended Queue
+
 ## Implementation
 ### Basic operations
 - enqueue
